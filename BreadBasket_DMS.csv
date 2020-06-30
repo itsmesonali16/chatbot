@@ -1,0 +1,507 @@
+Date,Time,Transaction,item_id
+2016-10-30,9:58:11,1,Chocolate and Vanila Combo
+2016-10-30,10:05:34,2,AvocadoShake
+2016-10-30,10:05:34,2,Pumpkin Shake
+2016-10-30,10:07:57,3,Simple Coffee
+2016-10-30,10:07:57,3,Simple Coffee
+2016-10-30,10:07:57,3,Chocolate and Vanila Combo
+2016-10-30,10:08:41,4,Chocolate and Vanila Combo
+2016-10-30,10:13:03,5,Apple pomegranate juice
+2016-10-30,10:13:03,5,Chocolate and Vanila Combo
+2016-10-30,10:13:03,5,Simple Coffee
+2016-10-30,10:16:55,6,Chans Espresso
+2016-10-30,10:16:55,6,Chocolate and Vanila Combo
+2016-10-30,10:16:55,6,Pumpkin Shake
+2016-10-30,10:19:12,7,Red Velvet
+2016-10-30,10:19:12,7,Strawberry Basque
+2016-10-30,10:19:12,7,Au Laite
+2016-10-30,10:19:12,7,Black Tie Mose
+2016-10-30,10:20:51,8,Chocolate and Vanila Combo
+2016-10-30,10:20:51,8,Malted Chocolate
+2016-10-30,10:21:59,9,Cotton candy shake
+2016-10-30,10:21:59,9,Black Forest
+2016-10-30,10:25:58,10,Macrons
+2016-10-30,10:25:58,10,Egg Puff
+2016-10-30,10:27:21,11,Simple Coffee
+2016-10-30,10:27:21,11,Con Panna
+2016-10-30,10:27:21,11,Apple pomegranate juice
+2016-10-30,10:27:21,11,Red Velvet
+2016-10-30,10:30:14,12,Au Laite
+2016-10-30,10:30:14,12,Frappe
+2016-10-30,10:30:14,12,Tomato Cheese
+2016-10-30,10:30:14,12,Simple Coffee
+2016-10-30,10:30:14,12,Au Laite
+2016-10-30,10:31:24,13,Chocolate and Vanila Combo
+2016-10-30,10:31:24,13,Tomato Cheese
+2016-10-30,10:31:24,13,French Pastery
+2016-10-30,10:32:46,14,Drumstick Milkshake
+2016-10-30,10:32:46,14,Americano
+2016-10-30,10:32:46,14,Drumstick Milkshake
+2016-10-30,10:34:36,15,Honey Slice
+2016-10-30,10:34:36,15,Easy Spinach
+2016-10-30,10:34:36,15,Con Panna
+2016-10-30,10:34:36,15,Black Coffee
+2016-10-30,10:37:08,16,Mix Fruit Smothie
+2016-10-30,10:37:08,16,Tiramisu Milkshake
+2016-10-30,10:37:08,16,Banana Cream treat
+2016-10-30,10:38:04,17,Fruit & Cheese cerame
+2016-10-30,10:41:56,18,Mix  Cupcake
+2016-10-30,10:43:08,19,Macrons
+2016-10-30,10:43:08,19,Red Velvet
+2016-10-30,10:45:22,20,Strawberry Traimisu
+2016-10-30,10:45:22,20,Black Forest
+2016-10-30,10:49:29,21,Black Tie Mose
+2016-10-30,10:49:29,21,Honey Slice
+2016-10-30,10:49:29,21,Walnut Pastry
+2016-10-30,10:49:29,21,Mango cream Bluree
+2016-10-30,10:52:15,22,Maxres Special
+2016-10-30,10:53:49,23,Keto Puff
+2016-10-30,10:53:49,23,Nutella Puff
+2016-10-30,10:54:33,24,Asparagus Puff
+2016-10-30,10:55:22,25,Simple Coffee
+2016-10-30,10:56:08,26,Cappuchino
+2016-10-30,11:02:19,27,Americano
+2016-10-30,11:03:24,28,Au Laite
+2016-10-30,11:03:24,28,Au Laite Cappucchino
+2016-10-30,11:05:30,29,Chans Espresso
+2016-10-30,11:05:30,29,Chocolate and Vanila Combo
+2016-10-30,11:05:30,29,AvocadoShake
+2016-10-30,11:07:19,30,Apple pomegranate juice
+2016-10-30,11:12:56,31,Drumstick Milkshake
+2016-10-30,11:16:15,32,Pumpkin Shake
+2016-10-30,11:16:15,32,Malted Chocolate
+2016-10-30,11:22:49,33,Oreo Shake
+2016-10-30,11:25:45,34,Pista Shake
+2016-10-30,11:25:45,34,Mix Fruit Smothie
+2016-10-30,11:27:34,35,Tiramisu Milkshake
+2016-10-30,11:27:34,35,Banana Cream treat
+2016-10-30,11:33:08,36,Cotton candy shake
+2016-10-30,11:33:08,36,Cranberry Orange
+2016-10-30,11:37:10,37,Mint White Chocolate
+2016-10-30,11:37:10,37,Cheery Vanila
+2016-10-30,11:37:10,37,Peanut Vanila
+2016-10-30,11:42:40,38,Salted Caramel Pretzel
+2016-10-30,11:42:40,38,Smores
+2016-10-30,11:44:31,39,Smores
+2016-10-30,11:55:51,40,Red Velvet
+2016-10-30,11:55:51,40,Strawberry Traimisu
+2016-10-30,11:55:51,40,Black Forest
+2016-10-30,11:55:51,40,Black Tie Mose
+2016-10-30,11:55:51,40,Honey Slice
+2016-10-30,11:57:06,41,Walnut Pastry
+2016-10-30,11:57:45,42,Mango cream Bluree
+2016-10-30,11:57:45,42,Maxres Special
+2016-10-30,12:00:22,43,Pineapple Shot  cake
+2016-10-30,12:00:22,43,Strawberry Basque
+2016-10-30,12:05:47,44,Vanila Layer
+2016-10-30,12:05:47,44,Fruit & Cheese cerame
+2016-10-30,12:08:36,45,Mix  Cupcake
+2016-10-30,12:08:36,45,Macrons
+2016-10-30,12:08:36,45,Waffel Ice-cream
+2016-10-30,12:09:04,46,Waffel Choco
+2016-10-30,12:15:29,47,Tanuki
+2016-10-30,12:15:29,47,Tomato Cheese
+2016-10-30,12:15:29,47,Blueberry Puff
+2016-10-30,12:15:29,47,Char Sui
+2016-10-30,12:15:29,47,Cinnimon Orange rolls
+2016-10-30,12:17:02,48,Easy Spinach
+2016-10-30,12:23:01,49,French Pastery
+2016-10-30,12:23:01,49,Beef Wellington
+2016-10-30,12:23:01,49,Keto Puff
+2016-10-30,12:25:11,50,Nutella Puff
+2016-10-30,12:25:11,50,Asparagus Puff
+2016-10-30,12:26:58,51,Egg Puff
+2016-10-30,12:28:07,52,Rough Puff
+2016-10-30,12:33:08,54,Simple Cherry Puff
+2016-10-30,12:38:06,55,Tart Social
+2016-10-30,12:38:06,55,Blaeter  tertei Puff
+2016-10-30,12:38:06,55,Simple Coffee
+2016-10-30,12:38:06,55,Cappuchino
+2016-10-30,12:39:27,56,Americano
+2016-10-30,12:39:27,56,Au Laite
+2016-10-30,12:45:48,57,Au Laite Cappucchino
+2016-10-30,12:59:29,58,Chans Espresso
+2016-10-30,12:59:29,58,Con Panna
+2016-10-30,12:59:29,58,Black Coffee
+2016-10-30,12:59:29,58,Espresso
+2016-10-30,13:02:04,59,Frappe
+2016-10-30,13:02:04,59,AvocadoShake
+2016-10-30,13:14:04,60,Iced Coffee Late
+2016-10-30,13:14:04,60,Irish Coffee 
+2016-10-30,13:14:04,60,Latte Macchiato
+2016-10-30,13:14:04,60,Wainans Choco Coffee
+2016-10-30,13:15:38,61,Simple Coffee
+2016-10-30,13:24:00,62,Cappuchino
+2016-10-30,13:24:00,62,Americano
+2016-10-30,13:24:00,62,Au Laite
+2016-10-30,13:24:00,62,Au Laite Cappucchino
+2016-10-30,13:24:00,62,Cappuchino
+2016-10-30,13:24:00,62,Cappuchino
+2016-10-30,13:33:12,63,Black Coffee
+2016-10-30,13:34:07,64,Black Coffee
+2016-10-30,13:37:25,65,Simple Coffee
+2016-10-30,13:37:25,65,Cappuchino
+2016-10-30,13:37:25,65,Black Coffee
+2016-10-30,13:37:25,65,Au Laite Cappucchino
+2016-10-30,13:37:25,65,Chans Espresso
+2016-10-30,13:40:20,66,Con Panna
+2016-10-30,13:40:20,66,Black Coffee
+2016-10-30,13:40:20,66,Espresso
+2016-10-30,13:46:48,67,Frappe
+2016-10-30,13:46:48,67,French Coffee
+2016-10-30,13:46:48,67,Iced Coffee Late
+2016-10-30,13:46:48,67,Irish Coffee 
+2016-10-30,13:49:36,68,Latte Macchiato
+2016-10-30,13:49:36,68,Simple Coffee
+2016-10-30,13:49:36,68,Cappuchino
+2016-10-30,13:49:36,68,Americano
+2016-10-30,13:49:36,68,Au Laite
+2016-10-30,13:51:49,69,Au Laite Cappucchino
+2016-10-30,13:51:49,69,Chans Espresso
+2016-10-30,13:51:49,69,Con Panna
+2016-10-30,13:54:42,70,Black Coffee
+2016-10-30,13:56:08,71,Espresso
+2016-10-30,14:21:38,72,Nutella Puff
+2016-10-30,14:21:38,72,Asparagus Puff
+2016-10-30,14:22:39,73,Egg Puff
+2016-10-30,14:24:03,74,Rough Puff
+2016-10-30,14:24:03,74,Simple Cherry Puff
+2016-10-30,14:32:26,75,Oreo Shake
+2016-10-30,14:32:26,75,Pista Shake
+2016-10-30,14:32:26,75,Mix Fruit Smothie
+2016-10-30,14:32:49,76,Tiramisu Milkshake
+2016-10-30,14:35:36,77,Banana Cream treat
+2016-10-30,14:42:29,78,Cotton candy shake
+2016-10-30,14:45:44,79,Cranberry Orange
+2016-10-30,14:45:44,79,Mint White Chocolate
+2016-10-30,14:45:44,79,Cheery Vanila
+2016-10-30,14:45:44,79,Peanut Vanila
+2016-10-30,14:48:40,80,Salted Caramel Pretzel
+2016-10-30,14:48:40,80,Macrons
+2016-10-30,14:48:40,80,Waffel Ice-cream
+2016-10-31,8:28:31,81,Waffel Choco
+2016-10-31,8:28:31,81,Simple Coffee
+2016-10-31,8:47:05,82,Cappuchino
+2016-10-31,8:47:05,82,Americano
+2016-10-31,8:47:05,82,Au Laite
+2016-10-31,8:57:47,83,Au Laite Cappucchino
+2016-10-31,8:57:47,83,Chans Espresso
+2016-10-31,9:04:06,84,Con Panna
+2016-10-31,9:10:09,85,Black Coffee
+2016-10-31,9:10:09,85,Espresso
+2016-10-31,9:10:09,85,Frappe
+2016-10-31,9:10:09,85,French Coffee
+2016-10-31,9:11:08,86,Iced Coffee Late
+2016-10-31,9:12:56,87,Irish Coffee 
+2016-10-31,9:16:01,88,Latte Macchiato
+2016-10-31,9:16:01,88,Wainans Choco Coffee
+2016-10-31,9:16:01,88,Cappuchino
+2016-10-31,9:19:41,89,Cappuchino
+2016-10-31,9:20:12,90,Cappuchino
+2016-10-31,9:20:12,90,Cappuchino
+2016-10-31,9:22:48,91,Au Laite Cappucchino
+2016-10-31,9:22:48,91,Chans Espresso
+2016-10-31,9:27:11,92,Au Laite Cappucchino
+2016-10-31,9:29:23,93,Chans Espresso
+2016-10-31,9:29:23,93,Espresso
+2016-10-31,9:39:09,94,Frappe
+2016-10-31,9:39:09,94,French Coffee
+2016-10-31,9:43:37,95,Iced Coffee Late
+2016-10-31,9:43:37,95,Red Velvet
+2016-10-31,9:43:37,95,Strawberry Traimisu
+2016-10-31,9:46:48,96,Black Forest
+2016-10-31,9:46:48,96,Black Tie Mose
+2016-10-31,9:46:48,96,Honey Slice
+2016-10-31,9:46:48,96,Walnut Pastry
+2016-10-31,9:51:11,97,Black Forest
+2016-10-31,9:51:11,97,Black Forest
+2016-10-31,9:51:11,97,Red Velvet
+2016-10-31,9:52:22,98,Red Velvet
+2016-10-31,9:56:37,99,Red Velvet
+2016-10-31,9:56:37,99,Red Velvet
+2016-10-31,9:56:37,99,Red Velvet
+2016-10-31,9:56:37,99,Red Velvet
+2016-10-31,9:58:06,100,Red Velvet
+2016-10-31,10:04:02,101,Red Velvet
+2016-10-31,10:04:02,101,Cinnimon Orange rolls
+2016-10-31,10:04:44,102,Easy Spinach
+2016-10-31,10:07:40,103,French Pastery
+2016-10-31,10:07:40,103,Beef Wellington
+2016-10-31,10:12:48,104,Keto Puff
+2016-10-31,10:12:48,104,Nutella Puff
+2016-10-31,10:12:48,104,Asparagus Puff
+2016-10-31,10:12:48,104,Egg Puff
+2016-10-31,10:12:48,104,Rough Puff
+2016-10-31,10:21:29,105,Simple Cherry Puff
+2016-10-31,10:21:29,105,Keto Puff
+2016-10-31,10:21:29,105,Nutella Puff
+2016-10-31,10:21:29,105,Asparagus Puff
+2016-10-31,10:24:21,106,Simple Cherry Puff
+2016-10-31,10:24:21,106,Simple Cherry Puff
+2016-10-31,10:24:21,106,Red Velvet
+2016-10-31,10:24:21,106,Pineapple Shot  cake
+2016-10-31,10:27:30,107,Strawberry Basque
+2016-10-31,10:27:30,107,Vanila Layer
+2016-10-31,10:31:05,108,Fruit & Cheese cerame
+2016-10-31,10:31:05,108,Mix  Cupcake
+2016-10-31,10:35:23,109,Macrons
+2016-10-31,10:35:23,109,Pineapple Shot  cake
+2016-10-31,10:35:23,109,Mix  Cupcake
+2016-10-31,10:36:37,110,Strawberry Basque
+2016-10-31,10:38:09,111,Pineapple Shot  cake
+2016-10-31,10:59:17,112,Mix  Cupcake
+2016-10-31,11:02:37,113,Oreo Shake
+2016-10-31,11:02:37,113,Pista Shake
+2016-10-31,11:05:45,114,Mix Fruit Smothie
+2016-10-31,11:08:53,115,Tiramisu Milkshake
+2016-10-31,11:11:01,116,Banana Cream treat
+2016-10-31,11:13:08,117,Oreo Shake
+2016-10-31,11:13:08,117,Mix Fruit Smothie
+2016-10-31,11:13:08,117,Mix Fruit Smothie
+2016-10-31,11:13:08,117,Mix Fruit Smothie
+2016-10-31,11:18:29,118,Mix Fruit Smothie
+2016-10-31,11:18:29,118,Mix Fruit Smothie
+2016-10-31,11:18:29,118,Mix Fruit Smothie
+2016-10-31,11:18:29,118,Oreo Shake
+2016-10-31,11:25:56,119,Oreo Shake
+2016-10-31,11:25:56,119,Oreo Shake
+2016-10-31,11:25:56,119,Oreo Shake
+2016-10-31,11:29:01,120,Oreo Shake
+2016-10-31,11:30:59,121,Oreo Shake
+2016-10-31,11:30:59,121,Oreo Shake
+2016-10-31,11:37:30,122,Oreo Shake
+2016-10-31,11:42:05,123,Oreo Shake
+2016-10-31,11:42:05,123,Oreo Shake
+2016-10-31,11:42:05,123,Pista Shake
+2016-10-31,11:42:05,123,Pista Shake
+2016-10-31,11:42:05,123,Pista Shake
+2016-10-31,11:43:10,124,Pista Shake
+2016-10-31,11:43:10,124,Pista Shake
+2016-10-31,11:47:18,125,Pista Shake
+2016-10-31,11:52:43,126,Vanila Layer
+2016-10-31,11:52:43,126,Vanila Layer
+2016-10-31,11:53:11,127,Vanila Layer
+2016-10-31,11:55:00,128,Iced Coffee Late
+2016-10-31,11:55:00,128,Iced Coffee Late
+2016-10-31,11:55:00,128,Iced Coffee Late
+2016-10-31,11:55:00,128,Iced Coffee Late
+2016-10-31,11:59:23,129,Iced Coffee Late
+2016-10-31,11:59:23,129,Iced Coffee Late
+2016-10-31,11:59:23,129,Irish Coffee 
+2016-10-31,12:03:12,130,Latte Macchiato
+2016-10-31,12:03:12,130,Wainans Choco Coffee
+2016-10-31,12:03:12,130,Irish Coffee 
+2016-10-31,12:08:28,131,Irish Coffee 
+2016-10-31,12:08:28,131,Irish Coffee 
+2016-10-31,12:14:20,132,Chocolate and Vanila Combo
+2016-10-31,12:14:20,132,AvocadoShake
+2016-10-31,12:14:20,132,Apple pomegranate juice
+2016-10-31,12:14:20,132,Drumstick Milkshake
+2016-10-31,12:16:32,133,Pumpkin Shake
+2016-10-31,12:16:32,133,Malted Chocolate
+2016-10-31,12:19:37,134,Oreo Shake
+2016-10-31,12:19:37,134,Pista Shake
+2016-10-31,12:19:37,134,Mix Fruit Smothie
+2016-10-31,12:20:21,135,Tiramisu Milkshake
+2016-10-31,12:27:41,136,Banana Cream treat
+2016-10-31,12:27:41,136,Cotton candy shake
+2016-10-31,12:37:07,137,Cranberry Orange
+2016-10-31,12:43:35,138,Mint White Chocolate
+2016-10-31,12:43:35,138,Cheery Vanila
+2016-10-31,12:43:35,138,Peanut Vanila
+2016-10-31,12:50:57,139,Salted Caramel Pretzel
+2016-10-31,12:50:57,139,Smores
+2016-10-31,12:50:57,139,Red Velvet
+2016-10-31,12:53:33,140,Strawberry Traimisu
+2016-10-31,12:53:33,140,Black Forest
+2016-10-31,12:53:33,140,Black Tie Mose
+2016-10-31,12:54:28,141,Honey Slice
+2016-10-31,12:56:47,142,Walnut Pastry
+2016-10-31,12:56:47,142,Mango cream Bluree
+2016-10-31,12:59:08,143,Maxres Special
+2016-10-31,13:02:11,144,Pineapple Shot  cake
+2016-10-31,13:02:11,144,Strawberry Basque
+2016-10-31,13:05:49,145,Vanila Layer
+2016-10-31,13:05:49,145,Fruit & Cheese cerame
+2016-10-31,13:05:49,145,Mix  Cupcake
+2016-10-31,13:08:30,146,Macrons
+2016-10-31,13:09:31,147,Waffel Ice-cream
+2016-10-31,13:09:31,147,Waffel Choco
+2016-10-31,13:21:17,148,Tanuki
+2016-10-31,13:21:17,148,Tomato Cheese
+2016-10-31,13:21:17,148,Blueberry Puff
+2016-10-31,13:26:03,149,Char Sui
+2016-10-31,13:31:33,150,Cinnimon Orange rolls
+2016-10-31,13:50:17,151,Easy Spinach
+2016-10-31,13:50:17,151,French Pastery
+2016-10-31,13:51:18,152,Beef Wellington
+2016-10-31,13:55:22,153,Keto Puff
+2016-10-31,13:55:22,153,Nutella Puff
+2016-10-31,13:55:22,153,Asparagus Puff
+2016-10-31,13:55:22,153,Egg Puff
+2016-10-31,14:00:21,154,Rough Puff
+2016-10-31,14:00:21,154,Simple Cherry Puff
+2016-10-31,14:00:21,154,Tart Social
+2016-10-31,14:00:21,154,Blaeter  tertei Puff
+2016-10-31,14:01:30,155,Simple Coffee
+2016-10-31,14:01:30,155,Cappuchino
+2016-10-31,14:01:30,155,Americano
+2016-10-31,14:04:16,156,Au Laite
+2016-10-31,14:04:16,156,Au Laite Cappucchino
+2016-10-31,14:05:07,157,Chans Espresso
+2016-10-31,14:05:07,157,Con Panna
+2016-10-31,14:20:29,158,Black Coffee
+2016-10-31,14:20:29,158,Espresso
+2016-10-31,14:22:31,159,Frappe
+2016-10-31,14:22:31,159,French Coffee
+2016-10-31,14:22:31,159,Iced Coffee Late
+2016-10-31,14:35:27,160,Irish Coffee 
+2016-10-31,14:35:27,160,Latte Macchiato
+2016-10-31,14:42:34,161,Wainans Choco Coffee
+2016-10-31,14:44:48,162,Americano
+2016-10-31,14:47:16,163,Cappuchino
+2016-10-31,14:47:16,163,Cappuchino
+2016-10-31,14:47:36,164,Cappuchino
+2016-10-31,14:47:36,164,Cappuchino
+2016-10-31,14:48:49,165,Cappuchino
+2016-10-31,14:49:28,166,Simple Coffee
+2016-10-31,14:49:28,166,Simple Coffee
+2016-10-31,14:50:42,167,Simple Coffee
+2016-10-31,14:50:42,167,Simple Coffee
+2016-10-31,14:50:42,167,Simple Coffee
+2016-10-31,14:50:42,167,Simple Coffee
+2016-10-31,14:56:25,168,Simple Coffee
+2016-10-31,14:56:25,168,Simple Coffee
+2016-10-31,15:05:17,169,Black Coffee
+2016-10-31,15:16:49,170,Black Coffee
+2016-10-31,15:20:16,171,Black Coffee
+2016-10-31,15:20:16,171,Black Coffee
+2016-10-31,17:06:47,172,Black Coffee
+2016-10-31,17:06:47,172,Nutella Puff
+2016-10-31,17:08:09,173,Nutella Puff
+2016-10-31,17:08:09,173,Nutella Puff
+2016-10-31,17:40:21,174,Black Tie Mose
+2016-10-31,17:49:42,175,Honey Slice
+2016-10-31,18:22:24,176,Walnut Pastry
+2016-10-31,18:22:24,176,Black Tie Mose
+2016-11-01,7:51:20,178,Honey Slice
+2016-11-01,7:51:20,178,Walnut Pastry
+2016-11-01,8:20:50,179,Black Tie Mose
+2016-11-01,8:20:50,179,Honey Slice
+2016-11-01,8:22:28,180,Walnut Pastry
+2016-11-01,8:22:28,180,Nutella Puff
+2016-11-01,8:45:20,181,Nutella Puff
+2016-11-01,8:45:20,181,Nutella Puff
+2016-11-01,9:07:47,182,Nutella Puff
+2016-11-01,9:07:47,182,Nutella Puff
+2016-11-01,9:07:47,182,Nutella Puff
+2016-11-01,9:09:26,183,Chocolate and Vanila Combo
+2016-11-01,9:26:03,184,AvocadoShake
+2016-11-01,9:26:03,184,Apple pomegranate juice
+2016-11-01,9:26:03,184,Drumstick Milkshake
+2016-11-01,9:29:25,185,Pumpkin Shake
+2016-11-01,9:29:25,185,Malted Chocolate
+2016-11-01,9:43:13,186,Oreo Shake
+2016-11-01,9:43:13,186,Pista Shake
+2016-11-01,10:02:27,187,Mix Fruit Smothie
+2016-11-01,10:04:05,188,Tiramisu Milkshake
+2016-11-01,10:29:02,189,Banana Cream treat
+2016-11-01,10:29:02,189,Cotton candy shake
+2016-11-01,10:34:53,190,Cranberry Orange
+2016-11-01,10:34:53,190,Mint White Chocolate
+2016-11-01,10:34:53,190,Cheery Vanila
+2016-11-01,10:50:50,191,Peanut Vanila
+2016-11-01,10:50:50,191,Salted Caramel Pretzel
+2016-11-01,10:56:08,192,Smores
+2016-11-01,10:56:08,192,Red Velvet
+2016-11-01,11:00:48,193,Strawberry Traimisu
+2016-11-01,11:04:36,194,Black Forest
+2016-11-01,11:04:36,194,Black Tie Mose
+2016-11-01,11:06:09,195,Honey Slice
+2016-11-01,11:06:09,195,Walnut Pastry
+2016-11-01,11:06:09,195,Mango cream Bluree
+2016-11-01,11:08:18,196,Maxres Special
+2016-11-01,11:08:18,196,Pineapple Shot  cake
+2016-11-01,11:08:18,196,Strawberry Basque
+2016-11-01,11:10:11,197,Vanila Layer
+2016-11-01,11:10:11,197,Fruit & Cheese cerame
+2016-11-01,11:10:11,197,Mix  Cupcake
+2016-11-01,11:11:58,198,Macrons
+2016-11-01,11:11:58,198,Waffel Ice-cream
+2016-11-01,11:13:20,199,Waffel Choco
+2016-11-01,11:16:30,200,Tanuki
+2016-11-01,11:22:36,201,Tomato Cheese
+2016-11-01,11:22:36,201,Blueberry Puff
+2016-11-01,11:22:36,201,Char Sui
+2016-11-01,11:23:19,202,Cinnimon Orange rolls
+2016-11-01,11:23:19,202,Easy Spinach
+2016-11-01,11:25:53,203,French Pastery
+2016-11-01,11:30:00,204,Beef Wellington
+2016-11-01,11:30:00,204,Keto Puff
+2016-11-01,11:49:31,205,Nutella Puff
+2016-11-01,11:49:31,205,Asparagus Puff
+2016-11-01,11:49:31,205,Egg Puff
+2016-11-01,11:54:17,206,Rough Puff
+2016-11-01,11:54:17,206,Simple Cherry Puff
+2016-11-01,11:54:17,206,Tart Social
+2016-11-01,12:03:37,207,Blaeter  tertei Puff
+2016-11-01,12:03:37,207,Simple Coffee
+2016-11-01,12:03:37,207,Cappuchino
+2016-11-01,12:10:09,208,Americano
+2016-11-01,12:10:38,209,Au Laite
+2016-11-01,12:12:26,210,Au Laite Cappucchino
+2016-11-01,12:15:36,211,Chans Espresso
+2016-11-01,12:15:36,211,Con Panna
+2016-11-01,12:20:30,212,Black Coffee
+2016-11-01,12:20:30,212,Espresso
+2016-11-01,12:20:30,212,Frappe
+2016-11-01,12:22:04,213,French Coffee
+2016-11-01,12:26:43,214,Iced Coffee Late
+2016-11-01,12:26:43,214,Irish Coffee 
+2016-11-01,12:26:43,214,Latte Macchiato
+2016-11-01,12:30:30,215,Wainans Choco Coffee
+2016-11-01,12:30:30,215,Espresso
+2016-11-01,12:31:30,216,Espresso
+2016-11-01,12:31:30,216,Espresso
+2016-11-01,12:33:31,217,Black Forest
+2016-11-01,12:33:31,217,Black Tie Mose
+2016-11-01,12:37:29,218,Black Forest
+2016-11-01,12:41:16,219,Black Tie Mose
+2016-11-01,12:49:16,220,Black Forest
+2016-11-01,12:49:16,220,Black Tie Mose
+2016-11-01,12:53:18,221,Irish Coffee 
+2016-11-01,12:53:18,221,Black Coffee
+2016-11-01,13:08:46,222,Black Coffee
+2016-11-01,13:11:34,223,Black Coffee
+2016-11-01,13:11:34,223,Frappe
+2016-11-01,13:15:08,224,Frappe
+2016-11-01,13:19:00,225,Au Laite
+2016-11-01,13:19:00,225,Au Laite
+2016-11-01,13:19:00,225,Au Laite
+2016-11-01,13:21:52,226,Waffel Ice-cream
+2016-11-01,13:31:35,227,Waffel Choco
+2016-11-01,13:31:35,227,Cotton candy shake
+2016-11-01,13:31:35,227,Cotton candy shake
+2016-11-01,13:33:54,228,Cotton candy shake
+2016-11-01,13:37:48,229,Cotton candy shake
+2016-11-01,13:37:48,229,Cotton candy shake
+2016-11-01,13:41:53,230,Cotton candy shake
+2016-11-01,13:45:21,231,Cotton candy shake
+2016-11-01,14:10:03,232,Malted Chocolate
+2016-11-01,14:10:03,232,Malted Chocolate
+2016-11-01,14:10:03,232,Malted Chocolate
+2016-11-01,14:13:26,233,Malted Chocolate
+2016-11-01,14:13:26,233,Malted Chocolate
+2016-11-01,14:13:26,233,Malted Chocolate
+2016-11-01,14:13:26,233,Malted Chocolate
+2016-11-01,14:14:01,234,Malted Chocolate
+2016-11-01,14:14:01,234,Malted Chocolate
+2016-11-01,14:18:52,235,Malted Chocolate
+2016-11-01,14:22:07,236,Malted Chocolate
+2016-11-01,14:25:14,237,Malted Chocolate
+2016-11-01,14:25:14,237,Malted Chocolate
+2016-11-01,14:37:16,238,Malted Chocolate
+2016-11-01,14:37:16,238,Malted Chocolate
+2016-11-01,14:37:16,238,Malted Chocolate
+2016-11-01,14:37:16,238,Malted Chocolate
+2016-11-01,14:37:26,239,Malted Chocolate
