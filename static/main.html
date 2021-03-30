@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/8256afe165.js" crossorigin="anonymous"></script>
+  
+    <link rel="stylesheet" type="text/css" href="{{url_for('static',filename='css/Web.css')}}">
+    
+</head>
+<style> 
+
+  
+
+
+.boxx2
+ {
+   background-color: #B9BDD7; color:rgb(23, 1, 51);
+   margin: 50px 50px 50px 50px;
+color:black;
+   
+} 
+
+
+html {
+  box-sizing: border-box;
+}
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+
+/* Create two columns that float next to eachother */
+.column {
+  float: left;
+  width: 50%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+
+</style>
+
+<style>
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+/* Button used to open the chat form - fixed at the bottom of the page */
+.open-button img {
+  
+
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 100px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+    position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 1px solid #0F87FA;
+  z-index: 8;
+
+  
+}
+
+/* Add styles to the form container */
+.form-container {
+  width: 500px;
+  padding: 10px;
+  height: 520px;
+  background-color: white;
+  overflow-x: hidden;
+  overflow-y:scroll;
+  padding-bottom: 70px;
+}
+.design{
+	top:450px;
+margin-top:auto;
+    width: 470px;
+    background:#0F87FA;
+    height: 70px;
+    position:absolute;
+}
+/* Full-width textarea */
+
+
+/* When the textarea gets focus, do something */
+.form-container input focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/send button */
+.
+
+/* Add a red background color to the cancel button */
+.btncancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.form-container .btn:hover, .open-button:hover {
+  opacity: 1;
+}
+  input{
+            width: 90%;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            font-size: 20px;
+
+        }
+
+
+.botText {
+color: white;
+font-family: monospace;
+font-size: 17px;
+text-align: left;
+line-height: 30px;
+background-color: #EF5350;
+padding: 10px;
+border-radius: 2px;
+float: left;
+clear:both; 
+	}
+
+.botText1 {
+color: white;
+font-family: monospace;
+font-size: 17px;
+text-align: right;
+float: right;
+order: -1;
+line-height: 30px;
+  background-color:blue;
+padding: 10px;
+border-radius: 2px;
+clear: both;
+  }
+
+
+#buttonInput img{
+	width: 20px;
+    height: 20px;
+    border: none; 
+    
+}
+
+</style>
+</head>
+<body>
+
+
+
+
+
+<button style="border: 0px;"class="open-button" onclick="openForm()"><img src="{{url_for('static',filename='chat.png')}}">></button>
+<div class="chat-popup" id="myForm" >
+<div class="form-container" id='id'>
+  <form>
+<button style="float: right;border-radius:100%; width:5%; border:none; background-color:#0F87FA;" type="button" class="btncancel" 
+onclick="closeForm()">x</button><br>
+<p><span class="botText">Bot:Hi! I'm Kathy.to get more information click her<a href="signin.html">Signup</a>   <a href="login.html">login</a></span></p><br>
+
+<br>
+
+
+ 
+
+
+   <div class=design id="userInput">
+    <input class="form-control" id="textInput"  type="text" name="msg"  style="border-radius: 30px;margin-top:10px; width:90%"/>
+<button id="buttonInput" type="submit"
+onclick=''><img src="{{url_for('static',filename='IMAGES/Button-Next.ico')}}"></button>
+
+</form>
+
+</div>
+</div>
+</div>
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+
+    </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+   
+</div>
+
+        <header></header>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+        <script src="jquery.js"></script> 
+    
+        <script type="text/javascript">
+            function toogleSidebar()
+            {
+                document.getElementById('cpanel').classList.toggle('active');
+            }
+         
+
+$(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+function openSearch() {
+  document.getElementById("myOverlay").style.display = "block";
+}
+function openS() {
+  document.getElementById("myOverlay2").style.display = "block";
+}
+
+function closeS() {
+  document.getElementById("myOverlay").style.display = "none";
+}
+function closeSearch() {
+  document.getElementById("myOverlay2").style.display = "none";
+}
+
+ function miniReport()
+   {$.ajax({
+            url :'menu1.php',
+            success : function(data) {
+                console.log(data);
+            }
+        });}
+</script>
+
+        
+        <div class="container">
+
+        	<div id="cpanel">
+               
+            <ul> 
+
+            <li><a href="main.html"><i class="fas fa-home"></i></a></li>  
+         
+         <li><a href="about.html"><i class="fas fa-atlas"></i></a></li>
+         <li><a href="#section4" color=white><i class="far fa-id-card"></i></a></li>
+            <li><a href="#section2" color=white><i class="fas fa-images"></i></a></li>
+             <li><a href="booking.html"><i class="fas fa-glass-martini-alt"></i></a></li>
+          
+        	</div>
+          <img  src="{{url_for('static',filename='cc.jpg' )}}"width="100%" height="100%" style="left:20%;"></img>
+            <div class="header-over">
+             
+            <b><center style=" font-size:900%;color:white;">THE SPLIT BEAN</center></b>
+            <div class="bt"><a href="#section3" class="btn"style="color:white;">Menu</a>
+               <a href="signin.html"style="color:white;" class="btn">Sign up</a>
+            <a href="login.html"style="color:white;" class="btn">Login</a>
+   
+            </div>
+           
+        </div>
+          
+    <div class="box" class="main" id="section3">
+<h1><center><b>MENU</b></center></h1>
+          <h5 class="over1">Milkshakes</h5>
+         	 <h5 class="over2">Pastrys</h5>
+         	 <h5 class="over3">Puff-Pastry</h5>
+         	 <h5 class="over4">Coffee</h5>
+      
+    	<center>
+    <div class="ho" class="main" >
+    <a href="menu1.html"> <left><img src="{{url_for('static',filename='mm.jpg')}}" width="30%" height="45%"></img></left></a>
+    	 <a href="menu2.html"> <left><img src="{{url_for('static',filename='pp.jpg')}}"width="30%" height="30%"></img></left></a>
+    	 <a href="menu3.html"> <left><img src="{{url_for('static',filename='images.jpg')}}"width="30%" height="25%"></img></left></a>
+    	  <a href="menu4.html"> <left> <img src="{{url_for('static',filename='ru.jpg')}}" width="30%" height="30%"></img></left></a>
+          
+    	</center>
+    </div>
+    	</div>
+        <div class="box2" class="main" id='section2'> 
+  
+        <h1><b><center>PHOTOS</center></b><center><h1>
+            <left> <img class="ss" src="{{url_for('static',filename='inside4.jpg')}}"></img></left>
+         <left><img src="{{url_for('static',filename='8275_Recept_cappuchino_met_cacaopoeder_336x264.jpg')}}"></img></left>
+         <left><img src="{{url_for('static',filename='cinnamon-orange-rolls-ck.jpg')}}"></img></left><left><img src="{{url_for('static',filename='85C-Bakery_Cakes_StrawberryTiramisu_FullMonth_01.jpg')}}"></img></left>
+          <left> <img src="{{url_for('static',filename='inside2.jpg')}}"></img></left>
+          <left> <img src="{{url_for('static',filename='w2.jpg')}}"></img></left>
+          <left> <img src="{{url_for('static',filename='inside3.jpg')}}"></img></left>
+          <left> <img src="{{url_for('static',filename='w1.jpg')}}"></img></left>
+          <left> <img src="{{url_for('static',filename='inside1.jpg')}}"></img></left>
+         
+          
+          
+
+        </center></div></div>
+        <div class="boxx2" class="main" id="section4" >
+
+<h1><center><b>Contact</b></center></h1>
+  <div>
+    <p style="font-size: 18px;text-align: center;">Swing by for a cup of coffee, or leave us a message:</p>
+  </div>
+  <div class="row">
+    <div class="column">
+      <img src="{{url_for('static',filename='rrr.jpg')}}" style="width:100%">
+    </div>
+    <div class="column">
+      <form action="/action_page.php">
+        <label for="fname">Email<label>
+        <input type="text" id="fname" name="firstname" placeholder="Your email">
+        
+        <label for="subject">Subject</label>
+        <textarea id="subject" name="subject" placeholder="Write something.." style="height:170px"></textarea>
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+  </div>
+<!--<script src="https://js.pusher.com/5.1/pusher.min.js"></script>-->
+ <!-- <script>
+  
+$(function() {
+  	
+$('#buttonInput').on('click',function(){
+	 let message=$('#textInput').val();
+	
+	$.post('/main',{'message':message},function(){
+    $('#textInput').val('');
+
+});
+	});
+    // Enable pusher logging - don't include this in production
+    Pusher.logToConsole = true;
+
+    var pusher = new Pusher('ae1a5db5a4c08c71fe87', {
+      cluster: 'ap2',
+      forceTLS: true
+    });
+
+    var channel = pusher.subscribe('chat-channel');
+    channel.bind('new-message', function(data) {
+    let message = data.message;
+    let message_template=`<p><span class="botText1">${message}</span></p><br>`;
+      $('#id').append(message_template);
+         });
+});
+   
+  </script>*/
+-->
+  
+
+ 
+  <div>
+<footer style="color:black;"><center >&copy;Copyright 2010 The Split Bean</footer></center></div>
+</div>
+
+  
+
+</body>
+</html>
