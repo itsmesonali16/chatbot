@@ -1,10 +1,70 @@
-# chatbot
-Mainly three algorithms are used in system they are as follows:
-•	Natural Language  Processing(NLP) algorithm
-Natural language processing (NLP) is a field of artificial intelligence in which computers analyze, understand, and derive meaning from human language in a smart and useful way. By utilizing NLP, developers can organize and structure knowledge to perform tasks such as automatic summarization, translation, named entity recognition, relationship extraction, sentiment analysis, speech recognition, and topic segmentation. We use this algorithm for cleaning the data. It tokenize the sentence to word. It then removes stop words and special characters from sentence so that processing could be easy.  
+#Chatbot for café 
+## 📌 Overview
+This chatbot system is designed to understand and process human language efficiently using advanced AI techniques. The project integrates three key algorithms: **Natural Language Processing (NLP)** for text preprocessing, **Long Short-Term Memory (LSTM)** for training the chatbot model, and **Apriori Algorithm** for recommending relevant responses based on frequent patterns.
 
-•	Long short-term memory(LSTM)
-It is an artificial recurrent neural network (RNN) architecture[1] used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points (such as images), but also entire sequences of data (such as speech or video).After processing using NLP we load a pre-trained model using word2vec .Then we convert conversation sentences to x_vec and y_vec vectors they are ten coverted to numeric format using KeyedVector and dumped in pickle file it completes the preprocessing. LSTM is used for training our model first we extract the pickle file and give it to LSTM neural network where note are trained it can remember information for longer time. The  activation function used for LSTM is sigmoid and 500 epoches.   
+## ✨ Features
+✅ **Preprocessing of text using NLP** (Tokenization, Stopword Removal, Special Character Removal)
+✅ **Deep Learning-based chatbot training** using LSTM Neural Networks  
+✅ **Food recommendation system** using the Apriori algorithm  
+✅ **Efficient response generation** based on conversational context  
 
-•	Apriori algorithm 
-Apriori is an algorithm for frequent item set mining and association rule learning over relational databases. It proceeds by identifying the frequent individual items in the database and extending them to larger and larger item sets as long as those item sets appear sufficiently often in the database. The frequent item sets determined by Apriori can be used to determine association rules which highlight general trends in the database this has applications in domains such as market basket analysis. We use this algorithm for recommending food to user it returns top 10 items that were purchase the most by customer from which bot recommends one of them in random way. 
+## 🛠️ Technologies Used
+- 🐍 **Python**
+- 🧠 **Natural Language Processing (NLP)**
+- 🔄 **Long Short-Term Memory (LSTM) Neural Network**
+- 📊 **Apriori Algorithm**
+- 🔤 **Word2Vec**
+- 📑 **Pandas & NumPy**
+- 💾 **Pickle (for model storage)**
+
+---
+## 📚 Algorithms Used
+### 1️⃣ Natural Language Processing (NLP)
+NLP enables the chatbot to analyze, understand, and extract meaningful information from human language. The key steps in NLP preprocessing include:
+- ✂ **Tokenization:** Splitting sentences into words.
+- 🚫 **Stopword Removal:** Eliminating common words like 'the', 'is', 'and'.
+- ✨ **Special Character Removal:** Cleaning unnecessary characters for efficient processing.
+
+### 2️⃣ Long Short-Term Memory (LSTM)
+LSTM, a type of Recurrent Neural Network (RNN), is used to train the chatbot model. It is capable of learning from sequential data, making it suitable for chatbot conversations. 
+
+**📌 Preprocessing:**  
+🔹 Load a pre-trained Word2Vec model.  
+🔹 Convert conversational sentences into vectorized formats (**x_vec, y_vec**) using `KeyedVector`.  
+🔹 Store preprocessed data in a **pickle file** for training.  
+
+**📌 Training:**  
+🔹 Extract data from the pickle file.  
+🔹 Train the model using LSTM with **sigmoid activation function**.  
+🔹 **500 epochs** are used to improve chatbot accuracy.  
+
+### 3️⃣ Apriori Algorithm
+The Apriori algorithm is used for association rule learning and frequent item set mining. In this chatbot, it is applied for recommending food items based on past user interactions.
+
+- 🔎 Identifies frequently purchased items in the database.
+- 📊 Generates the **top 10 most purchased items**.
+- 🎲 Recommends a random item from the top 10 to the user.
+
+---
+## 🚀 Installation & Setup
+1️⃣ Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/chatbot-project.git
+   cd chatbot-project
+   ```
+2️⃣ Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3️⃣ Run the chatbot:
+   ```sh
+   python chatbot.py
+   ```
+
+---
+## 🏆 Usage
+- 🗨 Users can interact with the chatbot by sending text queries.
+- 🔄 The chatbot processes input using NLP and responds based on trained LSTM models.
+- 🍽 Food recommendations are made using the Apriori algorithm.
+
+
