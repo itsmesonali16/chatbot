@@ -1,4 +1,4 @@
-#Chatbot for café 
+# Chatbot for café 
 ## 📌 Overview
 This chatbot system is designed to understand and process human language efficiently using advanced AI techniques. The project integrates three key algorithms: **Natural Language Processing (NLP)** for text preprocessing, **Long Short-Term Memory (LSTM)** for training the chatbot model, and **Apriori Algorithm** for recommending relevant responses based on frequent patterns.
 
